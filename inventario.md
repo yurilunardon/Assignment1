@@ -1,6 +1,8 @@
 2079244
 2082849
-- schede_madri.md
+
+componenti
 - processori.md
+- schede_madri.md
 
 Elettronica Padovana
